@@ -1,4 +1,4 @@
-<h1 align="center">courses</h1>
+<h1 align="center">crème de la crème of AI courses</h1>
 
 ## 👋 hello
 
