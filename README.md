@@ -11,20 +11,20 @@ This repository is a curated collection of links to various courses and resource
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
-| **topic** | **difficulty** | **release year** | **price** | **course** | **author** |
-|:---------:|:--------------:|:----------------:|:---------:|:----------:|:----------:|
-| Deep Learning | 🟩⬜⬜ | 2023 |  free | [ 6.S191: Introduction to Deep Learning]( https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |  Massachusetts Institute of Technology |
-| Deep Learning | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero]( https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |  Andrej Karpathy |
-| LLMs and Prompt Engineering | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( promptingguide.ai) |  DAIR.AI |
-| MLOps | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production]( https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |  Andrew Y. Ng |
-| Multimodal Machine Learning | 🟩🟩🟩 | 2022 |  free | [ 11-777: Multimodal Machine Learning]( https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |  Carnegie Mellon University |
-| Deep Learning | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders]( https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |  fast.ai |
-| Transformers | 🟩🟩🟩 | 2021 |  free | [ CS25: Transformers United]( https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |  Stanford University |
-| Deep Learning | 🟩🟩⬜ | 2021 |  free | [ NYU-DLSP21: NYU Deep Learning Spring]( https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |  New York University |
-| NLP and Transformers | 🟩⬜⬜ | 2021 |  free | [ NLP Course]( https://huggingface.co/course/chapter1/1) |  Hugging Face |
-| Deep Learning | 🟩⬜⬜ | 2021 |  free | [ Dive into Deep Learning]( https://d2l.ai/index.html) |  d2l.ai |
-| Deep Learning | 🟩🟩⬜ | 2020 |  free | [ Deep Learning Lecture Series]( https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |  DeepMind x University College London |
-| Computer Vision | 🟩🟩⬜ | 2018 |  free | [ CS231n: Deep Learning for Computer Vision]( https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |  Stanford University |
+| **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
+|:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
+| Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ 6.S191: Introduction to Deep Learning]( https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by  Massachusetts Institute of Technology |
+| Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero]( https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by  Andrej Karpathy |
+| LLMs and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide](  https://promptingguide.ai) by  DAIR.AI |
+| MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production]( https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) by  Andrew Y. Ng |
+| Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [ 11-777: Multimodal Machine Learning]( https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
+| Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders]( https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) by  fast.ai |
+| Transformers |  YouTube playlist | 🟩🟩🟩 | 2021 |  free | [ CS25: Transformers United]( https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) by  Stanford University |
+| Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [ NYU-DLSP21: NYU Deep Learning Spring]( https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) by  New York University |
+| NLP and Transformers |  website | 🟩⬜⬜ | 2021 |  free | [ NLP Course]( https://huggingface.co/course/chapter1/1) by  Hugging Face |
+| Deep Learning |  book | 🟩⬜⬜ | 2021 |  free | [ Dive into Deep Learning]( https://d2l.ai/index.html) by  d2l.ai |
+| Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2020 |  free | [ Deep Learning Lecture Series]( https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) by  DeepMind x University College London |
+| Computer Vision |  YouTube playlist | 🟩🟩⬜ | 2018 |  free | [ CS231n: Deep Learning for Computer Vision]( https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) by  Stanford University |
 <!--- AUTOGENERATED_COURSES_TABLE -->
 
 ## 🦸 contribution
