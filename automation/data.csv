@@ -1,5 +1,7 @@
 topic, difficulty, price, release_year, format, url, label, author
-Stable Diffusion and Deep Learning,2,free,2023,website,https://course.fast.ai/Lessons/part2.html,Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion,fast.ai
+LLMs,2, free,2023,website,https://www.wandb.courses/courses/building-llm-powered-apps,Building LLM-Powered Apps,Weights & Biases
+LLMs,2, free,2023,website,https://www.wandb.courses/courses/training-fine-tuning-LLMs,Training and Fine-tuning Large Language Models (LLMs),Weights & Biases
+Stable Diffusion and Deep Learning,2, free,2023,website,https://course.fast.ai/Lessons/part2.html,Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion,fast.ai
 Deep Learning,1, free,2023, YouTube playlist, https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI, 6.S191: Introduction to Deep Learning, Massachusetts Institute of Technology
 Deep Learning,1, free,2023, YouTube playlist, https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ, Neural Networks: Zero to Hero, Andrej Karpathy
 Large Language Models and Prompt Engineering,1, free,2023, website, https://promptingguide.ai, Prompt Engineering Guide, DAIR.AI
@@ -13,5 +15,5 @@ Deep Learning,1, free,2021, book, https://d2l.ai/index.html, Dive into Deep Lear
 Reinforcement Learning,3, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm, Reinforcement Learning Course, DeepMind x University College London
 Natural Language Processing,2, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ, CS224N: Natural Language Processing with Deep Learning, Stanford University
 Deep Learning,2, free,2020, YouTube playlist, https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF, Deep Learning Lecture Series, DeepMind x University College London
-Artificial Intelligence, 2, free, 2019, Youtube playlist, https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX, Stanford CS221: Artificial Intelligence: Principles and Techniques, Stanford University
+Artificial Intelligence,2, free,2019, Youtube playlist, https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX, Stanford CS221: Artificial Intelligence: Principles and Techniques, Stanford University
 Computer Vision,2, free,2018, YouTube playlist, https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv, CS231n: Deep Learning for Computer Vision, Stanford University
