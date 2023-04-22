@@ -13,6 +13,8 @@ This repository is a curated collection of links to various courses and resource
 -->
 | **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
 |:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
+| LLM's | Videos | 🟩🟩⬜ | 2023 |  free | [Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps) by Weights & Bias |
+| LLM's | Videos | 🟩🟩⬜ | 2023 |  free | [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) by Weights & Bias |
 | Stable Diffusion, Deep Learning | YouTube videos/Blog | 🟩🟩⬜ | 2023 | free | [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) by fast.ai |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ 6.S191: Introduction to Deep Learning]( https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by  Massachusetts Institute of Technology |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero]( https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by  Andrej Karpathy |
