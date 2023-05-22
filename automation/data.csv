@@ -1,21 +1,22 @@
 topic, difficulty, price, release_year, format, url, label, author
-Large Language Models, 2, free, 2023, YouTube playlist, https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ, LLM Bootcamp - Spring 2023, The Full Stack
-Python, 1, free, 2023,  YouTube playlist, https://www.youtube.com/watch?v=nLRL_NcnK-4, CS50: Introduction to Programming with Python, Harvard University x freeCodeCamp.org
+Deep Learning,1,free,2023,website,https://lightning.ai/pages/courses/deep-learning-fundamentals/,Deep Learning Fundamentals -- Learning Deep Learning Using a Modern Open-Source Stack.,Sebastian Raschka
+Large Language Models,2, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ,LLM Bootcamp - Spring 2023, The Full Stack
+Python,1, free,2023,  YouTube playlist,https://www.youtube.com/watch?v=nLRL_NcnK-4,CS50: Introduction to Programming with Python, Harvard University x freeCodeCamp.org
 Stable Diffusion and Deep Learning,2,free,2023,website,https://course.fast.ai/Lessons/part2.html,Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion,fast.ai
-Deep Learning,1, free,2023, YouTube playlist, https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI, 6.S191: Introduction to Deep Learning, Massachusetts Institute of Technology
-Deep Learning,1, free,2023, YouTube playlist, https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ, Neural Networks: Zero to Hero, Andrej Karpathy
+Deep Learning,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI,6.S191: Introduction to Deep Learning, Massachusetts Institute of Technology
+Deep Learning,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ, Neural Networks: Zero to Hero, Andrej Karpathy
 Large Language Models and Prompt Engineering,1, free,2023, website, https://promptingguide.ai, Prompt Engineering Guide, DAIR.AI
-Computer Vision,1, free, 2023, YouTube playlist, https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R, Computer Vision in Practice, Piotr Skalski x Roboflow
-MLOps,2, free,2022, YouTube playlist, https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK, Machine Learning Engineering for Production, Andrew Y. Ng
-Multimodal Machine Learning,3, free,2022, YouTube playlist, https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA, 11-777: Multimodal Machine Learning, Carnegie Mellon University
-Deep Learning,1, free,2022, YouTube playlist, https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU, Practical Deep Learning for Coders, fast.ai
-Transformers,3, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM, CS25: Transformers United, Stanford University
-Deep Learning,2, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI, NYU-DLSP21: NYU Deep Learning Spring, New York University
-Natural Language Processing and Transformers,1, free,2021, website, https://huggingface.co/course/chapter1/1, NLP Course, Hugging Face
-Deep Learning,1, free,2021, book, https://d2l.ai/index.html, Dive into Deep Learning, d2l.ai
-Reinforcement Learning,3, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm, Reinforcement Learning Course, DeepMind x University College London
-Natural Language Processing,2, free,2021, YouTube playlist, https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ, CS224N: Natural Language Processing with Deep Learning, Stanford University
-Deep Learning,2, free,2020, YouTube playlist, https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF, Deep Learning Lecture Series, DeepMind x University College London
-Artificial Intelligence, 2, free, 2019, Youtube playlist, https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX, Stanford CS221: Artificial Intelligence: Principles and Techniques, Stanford University
+Computer Vision,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R, Computer Vision in Practice, Piotr Skalski x Roboflow
+MLOps,2, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK, Machine Learning Engineering for Production, Andrew Y. Ng
+Multimodal Machine Learning,3, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA,11-777: Multimodal Machine Learning, Carnegie Mellon University
+Deep Learning,1, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU, Practical Deep Learning for Coders, fast.ai
+Transformers,3, free,2021, YouTube playlist,https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM,CS25: Transformers United, Stanford University
+Deep Learning,2, free,2021, YouTube playlist,https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI,NYU-DLSP21: NYU Deep Learning Spring, New York University
+Natural Language Processing and Transformers,1, free,2021, website,https://huggingface.co/course/chapter1/1, NLP Course, Hugging Face
+Deep Learning,1, free,2021, book,https://d2l.ai/index.html, Dive into Deep Learning,d2l.ai
+Reinforcement Learning,3, free,2021, YouTube playlist,https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm, Reinforcement Learning Course, DeepMind x University College London
+Natural Language Processing,2, free,2021, YouTube playlist,https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ,CS224N: Natural Language Processing with Deep Learning, Stanford University
+Deep Learning,2, free,2020, YouTube playlist,https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF, Deep Learning Lecture Series, DeepMind x University College London
+Artificial Intelligence,2, free,2019, Youtube playlist,https://youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX,Stanford CS221: Artificial Intelligence: Principles and Techniques, Stanford University
 Computer Vision,2,free,2019,Youtube playlist,https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r,University of Michigan EECS 498.008 / 598.008: Deep Learning for Computer Vision,University of Michigan
-Computer Vision,2, free,2018, YouTube playlist, https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv, CS231n: Deep Learning for Computer Vision, Stanford University
+Computer Vision,2, free,2018, YouTube playlist,https://www.youtube.com/playlist?app=desktop&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv,CS231n: Deep Learning for Computer Vision, Stanford University
