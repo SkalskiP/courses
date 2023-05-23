@@ -20,6 +20,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
 |:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
 | Deep Learning | website | 🟩⬜⬜ | 2023 | free | [Deep Learning Fundamentals -- Learning Deep Learning Using a Modern Open-Source Stack.](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by Sebastian Raschka |
+| Prompt Engineering | website | 🟩⬜⬜ | 2023 | free | [ Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by  DeepLearning.ai |
 | Large Language Models |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [LLM Bootcamp - Spring 2023](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) by  The Full Stack |
 | Python |   YouTube playlist | 🟩⬜⬜ | 2023 |  free | [CS50: Introduction to Programming with Python](https://www.youtube.com/watch?v=nLRL_NcnK-4) by  Harvard University x freeCodeCamp.org |
 | Stable Diffusion and Deep Learning | website | 🟩🟩⬜ | 2023 | free | [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) by fast.ai |
@@ -27,7 +28,11 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by  Andrej Karpathy |
 | Large Language Models and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( https://promptingguide.ai) by  DAIR.AI |
 | Computer Vision |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Computer Vision in Practice](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) by  Piotr Skalski x Roboflow |
+| Machine Learning Engineering | book | 🟩🟩⬜ | 2022 | free | [ Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php) by  Andriy Burkov |
+| Papers Explained |  YouTube playlist | 🟩🟩⬜ | 2022 | free | [ Papers Explained](https://www.youtube.com/watch?v=fvctpYph8Pc&list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7&ab_channel=YannicKilcher) by  Yannic Kilcher |
+| MLOps | website | 🟩🟩⬜ | 2022 | free | [MLOps and AutoML](https://www.coursera.org/specializations/mlops-machine-learning-duke) by  Noah Gift x Duke University |
 | MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) by  Andrew Y. Ng |
+| MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 | free | [ MLOps Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) by  DataTalksClub |
 | Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [11-777: Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) by  fast.ai |
 | Transformers |  YouTube playlist | 🟩🟩🟩 | 2021 |  free | [CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) by  Stanford University |
