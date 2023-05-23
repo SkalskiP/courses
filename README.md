@@ -2,6 +2,13 @@
 
 <h1 align="center">crème de la crème of AI courses</h1>
 
+<div align="center">
+  
+[English](README.md) | [Hindi](README.hindi.md)
+  
+</div>
+
+
 ## 👋 hello
 
 This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI). Whether you're a beginner or an experienced learner, there's something here for everyone!
