@@ -1,5 +1,6 @@
 topic, difficulty, price, release_year, format, url, label, author
 Deep Learning,1,free,2023,website,https://lightning.ai/pages/courses/deep-learning-fundamentals/,Deep Learning Fundamentals -- Learning Deep Learning Using a Modern Open-Source Stack.,Sebastian Raschka
+Prompt Engineering,1,free,2023,website,https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/, Prompt Engineering, DeepLearning.ai
 Large Language Models,2, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ,LLM Bootcamp - Spring 2023, The Full Stack
 Python,1, free,2023,  YouTube playlist,https://www.youtube.com/watch?v=nLRL_NcnK-4,CS50: Introduction to Programming with Python, Harvard University x freeCodeCamp.org
 Stable Diffusion and Deep Learning,2,free,2023,website,https://course.fast.ai/Lessons/part2.html,Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion,fast.ai
@@ -7,7 +8,11 @@ Deep Learning,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?li
 Deep Learning,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ, Neural Networks: Zero to Hero, Andrej Karpathy
 Large Language Models and Prompt Engineering,1, free,2023, website, https://promptingguide.ai, Prompt Engineering Guide, DAIR.AI
 Computer Vision,1, free,2023, YouTube playlist,https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R, Computer Vision in Practice, Piotr Skalski x Roboflow
+Machine Learning Engineering,2,free,2022,book,http://www.mlebook.com/wiki/doku.php, Machine Learning Engineering, Andriy Burkov
+Papers Explained,2,free,2022, YouTube playlist,https://www.youtube.com/watch?v=fvctpYph8Pc&list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7&ab_channel=YannicKilcher, Papers Explained, Yannic Kilcher
+MLOps,2,free,2022,website,https://www.coursera.org/specializations/mlops-machine-learning-duke,MLOps and AutoML, Noah Gift x Duke University
 MLOps,2, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK, Machine Learning Engineering for Production, Andrew Y. Ng
+MLOps,2,free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK, MLOps Zoomcamp, DataTalksClub
 Multimodal Machine Learning,3, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA,11-777: Multimodal Machine Learning, Carnegie Mellon University
 Deep Learning,1, free,2022, YouTube playlist,https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU, Practical Deep Learning for Coders, fast.ai
 Transformers,3, free,2021, YouTube playlist,https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM,CS25: Transformers United, Stanford University
