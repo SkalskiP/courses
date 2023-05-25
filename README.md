@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[English](README.md) | [Hindi](README.hindi.md)
-
+[English](README.md) | [Hindi](README.hi.md) | [French](README.fr.md)
+  
 </div>
 
 
@@ -39,6 +39,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [11-777: Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
 | Deep Multi-Task and Meta Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [CS330 Deep Multi-Task and Meta Learning](https://youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) by  fast.ai |
+| Natural Language Understanding |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) by  Stanford University |
 | Transformers |  YouTube playlist | 🟩🟩🟩 | 2021 |  free | [CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [NYU-DLSP21: NYU Deep Learning Spring](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) by  New York University |
 | Natural Language Processing and Transformers |  website | 🟩⬜⬜ | 2021 |  free | [ NLP Course](https://huggingface.co/course/chapter1/1) by  Hugging Face |
