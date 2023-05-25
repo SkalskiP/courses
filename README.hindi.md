@@ -22,6 +22,6 @@ We would love your help in making this repository even better! If you know of an
 here, or if you have any suggestions for improvement, feel free to open an
 [issue](https://github.com/SkalskiP/courses/issues) or submit a
 [pull request](https://github.com/SkalskiP/courses/pulls). If you feel up to the task, please take a peek at our
-[contribution guide](https://github.com/SkalskiP/courses/blob/main/CONTRIBUTING.md).
+[contribution guide](https://github.com/SkalskiP/courses/blob/master/CONTRIBUTING.md).
 
 Together, let's make this the best AI learning hub on GitHub! 🚀
