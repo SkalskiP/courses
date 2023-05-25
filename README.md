@@ -3,9 +3,9 @@
 <h1 align="center">crème de la crème of AI courses</h1>
 
 <div align="center">
-  
+
 [English](README.md) | [Hindi](README.hindi.md)
-  
+
 </div>
 
 
@@ -26,6 +26,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 -->
 | **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
 |:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
+| Diffusion Models | Youtube playlist | 🟩🟩⬜ | 2023 | free | [DiffusionFastForward](https://github.com/mikonvergence/DiffusionFastForward) by  Mikolaj Czerkawski @mikonvergence |
 | Deep Learning | website | 🟩⬜⬜ | 2023 | free | [Deep Learning Fundamentals -- Learning Deep Learning Using a Modern Open-Source Stack.](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by Sebastian Raschka |
 | Large Language Models |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [LLM Bootcamp - Spring 2023](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) by  The Full Stack |
 | Python |   YouTube playlist | 🟩⬜⬜ | 2023 |  free | [CS50: Introduction to Programming with Python](https://www.youtube.com/watch?v=nLRL_NcnK-4) by  Harvard University x freeCodeCamp.org |
