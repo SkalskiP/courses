@@ -3,8 +3,8 @@
 <h1 align="center">crème de la crème of AI courses</h1>
 
 <div align="center">
-  
-[English](README.md) | [Hindi](README.hindi.md) | [Italiano](README.it.md)
+
+[English](README.md) | [Hindi](README.hi.md) | [Italiano](README.it.md) | [French](README.fr.md)
   
 </div>
 
@@ -34,9 +34,12 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by  Andrej Karpathy |
 | Large Language Models and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( https://promptingguide.ai) by  DAIR.AI |
 | Computer Vision |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Computer Vision in Practice](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) by  Piotr Skalski x Roboflow |
+| Advanced Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [NLP](https://youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) by  UMass |
 | MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) by  Andrew Y. Ng |
 | Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [11-777: Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
+| Deep Multi-Task and Meta Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [CS330 Deep Multi-Task and Meta Learning](https://youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2022 |  free | [ Practical Deep Learning for Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) by  fast.ai |
+| Natural Language Understanding |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) by  Stanford University |
 | Transformers |  YouTube playlist | 🟩🟩🟩 | 2021 |  free | [CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) by  Stanford University |
 | Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2021 |  free | [NYU-DLSP21: NYU Deep Learning Spring](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) by  New York University |
 | Natural Language Processing and Transformers |  website | 🟩⬜⬜ | 2021 |  free | [ NLP Course](https://huggingface.co/course/chapter1/1) by  Hugging Face |
