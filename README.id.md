@@ -14,7 +14,7 @@ Repositori ini berisikan mengenai kumpulan informasi mengenai Kecerdasan Buatan 
 
 ## 🚧 Bantu kami dalam berkontribusi
 
-Bahasa Inggris bukanlah satu-satunya bahasa di dunia. Ada banyak orang yang tidak bisa berbahasa inggris. Banyak pembuat konten tidak membuat konten mereka dalam bahasa Inggris. Oleh karena itu, kami ingin membuat kumpulan informasi yang terpisah yang dapat membantu orang yang ingin mempelajari Machine Learning (ML) dan tidak memiliki kemampuan untuk mengartikan bahasa dari konten tersebut. Bahasa Indonesia adalah bahasa selanjutnya yang ingin kami dukung. Ayo bantu kami dalam [membangun](https://github.com/SkalskiP/courses/discussions/22) kumpulan sumber informasi dalam Bahasa Indonesia. 
+Bahasa Inggris bukanlah satu-satunya bahasa di dunia. Ada banyak orang yang tidak bisa berbahasa inggris. Banyak pembuat konten tidak membuat konten mereka dalam bahasa Inggris. Oleh karena itu, kami ingin membuat kumpulan informasi yang terpisah yang dapat membantu orang yang ingin mempelajari Machine Learning (ML) dan tidak memiliki kemampuan untuk mengartikan bahasa dari konten tersebut. Bahasa Indonesia adalah bahasa selanjutnya yang ingin kami dukung. Ayo bantu kami dalam [membangun](https://github.com/SkalskiP/courses/discussions/34) kumpulan sumber informasi dalam Bahasa Indonesia. 
 
 ## 🦸 contribution
 
