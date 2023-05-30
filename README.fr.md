@@ -4,8 +4,8 @@
 
 <div align="center">
   
-[English](README.md) | [Hindi](README.hi.md) | [Italiano](README.it.md) | [French](README.fr.md) | [Indonesian](README.id.md)
   
+[English](README.md) | [Hindi](README.hi.md) | [Italiano](README.it.md) | [French](README.fr.md) | [Indonesian](README.id.md) | [Japanese](README.ja.md)
 </div>
 
 ## 👋 salut
