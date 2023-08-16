@@ -35,6 +35,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Large Language Models and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( https://promptingguide.ai) by  DAIR.AI |
 | Computer Vision |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Computer Vision in Practice](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) by  Piotr Skalski x Roboflow |
 | Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ CS685: Advanced Natural Language Processing](https://youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) by  University of Massachusetts |
+| Machine Learning |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ CS229: Machine Learning]( https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) by  Stanford University |
 | MLOps |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ Machine Learning Engineering for Production](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) by  Andrew Y. Ng |
 | Multimodal Machine Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [11-777: Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) by  Carnegie Mellon University |
 | Deep Multi-Task and Meta Learning |  YouTube playlist | 🟩🟩🟩 | 2022 |  free | [CS330 Deep Multi-Task and Meta Learning](https://youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) by  Stanford University |
