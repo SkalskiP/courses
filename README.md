@@ -26,7 +26,8 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 -->
 | **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
 |:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
-| Deep Learning | website | 🟩⬜⬜ | 2023 | free | [Deep Learning Fundamentals -- Learning Deep Learning Using a Modern Open-Source Stack.](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by Sebastian Raschka |
+| Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ Natural Language Processing]( https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) by  The University of Texas at Austin |
+| Deep Learning | website | 🟩⬜⬜ | 2023 | free | [Deep Learning Fundamentals - Learning Deep Learning Using a Modern Open-Source Stack](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by  Sebastian Raschka |
 | Large Language Models |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [LLM Bootcamp - Spring 2023](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) by  The Full Stack |
 | Python |   YouTube playlist | 🟩⬜⬜ | 2023 |  free | [CS50: Introduction to Programming with Python](https://www.youtube.com/watch?v=nLRL_NcnK-4) by  Harvard University x freeCodeCamp.org |
 | Stable Diffusion and Deep Learning | website | 🟩🟩⬜ | 2023 | free | [Practical Deep Learning for Coders part 2: Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html) by fast.ai |
