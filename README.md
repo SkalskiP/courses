@@ -26,6 +26,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 -->
 | **topic** | **format** | **difficulty** | **release year** | **price** | **course** |
 |:---------:|:----------:|:--------------:|:----------------:|:---------:|:----------:|
+| Generative AI |  GitHub repository | 🟩⬜⬜ | 2023 |  free | [ Generative AI for Beginners]( https://github.com/microsoft/generative-ai-for-beginners) by  Microsoft |
 | Deep Learning |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ 6.5940 TinyML and Efficient Deep Learning Computing]( https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by  Massachusetts Institute of Technology |
 | Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ Natural Language Processing]( https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) by  The University of Texas at Austin |
 | Deep Learning | website | 🟩⬜⬜ | 2023 | free | [Deep Learning Fundamentals - Learning Deep Learning Using a Modern Open-Source Stack](https://lightning.ai/pages/courses/deep-learning-fundamentals/) by  Sebastian Raschka |
