@@ -36,6 +36,7 @@ I am looking for a good free course on statistics, linear algebra, integrals and
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by  Massachusetts Institute of Technology |
 | Deep Learning |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by  Andrej Karpathy |
 | Large Language Models and Prompt Engineering |  website | 🟩⬜⬜ | 2023 |  free | [ Prompt Engineering Guide]( https://promptingguide.ai) by  DAIR.AI |
+| Large Language Model Evaluation |  website | 🟩⬜⬜ | 2024 |  free | [ LLM Observability: Evaluation Essentials](https://courses.arize.com/courses/) by  Amber Roberts |
 | Computer Vision |  YouTube playlist | 🟩⬜⬜ | 2023 |  free | [ Computer Vision in Practice](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) by  Piotr Skalski x Roboflow |
 | Natural Language Processing |  YouTube playlist | 🟩🟩⬜ | 2023 |  free | [ CS685: Advanced Natural Language Processing](https://youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) by  University of Massachusetts |
 | Machine Learning |  YouTube playlist | 🟩🟩⬜ | 2022 |  free | [ CS229: Machine Learning]( https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) by  Stanford University |
